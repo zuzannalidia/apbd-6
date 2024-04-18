@@ -1,0 +1,6 @@
+@RestApiApbdPjatkCw4_HostAddress = http://localhost:5223
+
+GET {{RestApiApbdPjatkCw4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
